@@ -1,4 +1,4 @@
-# Hello!!:
+# Hello!!
 ### About me <br><br>🎓 MCA student, graduating in 2027  <br>☕ Backend-focused Java developer  <br>🧠 Strengthening core CS & DSA fundamentals (Java)  <br>📈 Focused on writing clean, scalable, and practical code<br><br>
 
 
