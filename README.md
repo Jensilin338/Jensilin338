@@ -1,5 +1,5 @@
-# 💫 About Me:
-### <br><br>🎓 MCA student, graduating in 2027  <br>☕ Backend-focused Java developer  <br>🧠 Strengthening core CS & DSA fundamentals (Java)  <br>🛠️ Building backend projects using Java, SQL, and Firebase  <br>📈 Focused on writing clean, scalable, and practical code<br><br>📌 Currently focusing on building strong fundamentals in Java, DSA, and backend development through consistent practice and projects.<br><br>
+# Hello!!:
+### About me <br><br>🎓 MCA student, graduating in 2027  <br>☕ Backend-focused Java developer  <br>🧠 Strengthening core CS & DSA fundamentals (Java)  <br>🛠️ Building backend projects using Java, SQL, and Firebase  <br>📈 Focused on writing clean, scalable, and practical code<br><br>📌 Currently focusing on building strong fundamentals in Java, DSA, and backend development through consistent practice and projects.<br><br>
 
 
 ## 🌐 Socials:
