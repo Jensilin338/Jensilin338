@@ -24,7 +24,8 @@
 
 | Stats | Languages |
 |-------|-----------|
-| ![](https://github-readme-stats.vercel.app/api?username=Jensilin338&theme=dark) | ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Jensilin338&theme=dark&layout=compact) |
+| ![](https://github-readme-stats.vercel.app/api?username=Jensilin338&theme=dark&count_private=true&include_all_commits=true)
+| ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Jensilin338&theme=dark&layout=compact) |
 
 
 
