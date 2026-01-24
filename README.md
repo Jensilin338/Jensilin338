@@ -12,11 +12,6 @@
 |-------|-----------|
 | ![](https://github-readme-stats.vercel.app/api?username=Jensilin338&theme=dark) | ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Jensilin338&theme=dark&layout=compact) |
 
-### 📈 Activity
-![GitHub commits](https://badges.pufler.dev/commits/all/Jensilin338)
-![GitHub commits this year](https://badges.pufler.dev/commits/yearly/Jensilin338)
-
-![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Jensilin338&theme=github-dark)
 
 
 
