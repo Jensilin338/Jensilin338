@@ -9,7 +9,8 @@
 
 | Stats | Languages |
 |-------|-----------|
-| ![](https://github-readme-stats.vercel.app/api?username=Jensilin338&theme=dark) | ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Jensilin338&theme=dark&layout=compact) |
+|  ![GitHub commits this year](https://badges.pufler.dev/commits/yearly/Jensilin338)
+| ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Jensilin338&theme=dark&layout=compact) |
 
 
 ---
