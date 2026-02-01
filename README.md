@@ -23,10 +23,10 @@
 <table>
   <tr>
     <td>
-      <img src="https://github-readme-stats.vercel.app/api?username=Jensilin338&theme=dark&show_icons=true" />
+      <img src="https://github-readme-stats.vercel.app/api?username=Jensilin338&theme=dark&show_icons=true&include_all_commits=true&count_private=true" />
     </td>
     <td>
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Jensilin338&theme=dark&layout=compact&hide=jupyter%20notebook" />
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Jensilin338&theme=dark&layout=compact&hide=jupyter%20notebook&langs_count=6" />
     </td>
   </tr>
 </table>
