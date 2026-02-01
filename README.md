@@ -18,9 +18,19 @@
 
 ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white)
 ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
-| Stats | Languages |
-|-------|-----------|
-| <img src="https://github-readme-stats.vercel.app/api?username=Jensilin338&theme=dark" /> | <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Jensilin338&theme=dark&layout=compact&hide=jupyter%20notebook" /> |
+### 📊 GitHub Stats
+
+<table>
+  <tr>
+    <td>
+      <img src="https://github-readme-stats.vercel.app/api?username=Jensilin338&theme=dark&show_icons=true" />
+    </td>
+    <td>
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Jensilin338&theme=dark&layout=compact&hide=jupyter%20notebook" />
+    </td>
+  </tr>
+</table>
+
 
 
 ---
