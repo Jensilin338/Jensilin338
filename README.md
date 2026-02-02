@@ -19,15 +19,7 @@
 ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white)
 ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
 
-## 📊 GitHub Stats
 
-![](https://github-readme-stats.vercel.app/api?username=Jensilin338&theme=dark&show_icons=true&include_all_commits=true&count_private=true)
-
-![](https://nirzak-streak-stats.vercel.app/?user=Jensilin338&theme=dark)
-
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=Jensilin338&theme=dark&layout=compact&hide=jupyter%20notebook)
-
----
 
 ![](https://visitcount.itsvg.in/api?id=Jensilin338&icon=0&color=0)
 
